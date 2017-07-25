@@ -58,3 +58,5 @@ typings/
 .env
 
 variables.env
+package-lock.json
+.map
